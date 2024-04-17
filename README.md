@@ -6,8 +6,6 @@ This repository contains an R script for generating synthetic patient data, incl
 
 Before running the script, make sure you have R installed on your system. You can download it from [CRAN](https://cran.r-project.org/).
 
-## Part 5: Features
-
 ## Features
 
 - Generates names, ages, races, and ethnicities for 1000 synthetic patients.
