@@ -19,7 +19,3 @@ Download a dataset of ICD10 codes - I used this one: https://www.kaggle.com/data
 ## Contributing
 
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
