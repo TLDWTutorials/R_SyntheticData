@@ -6,6 +6,8 @@ This repository contains an R script for generating synthetic patient data, incl
 
 Before running the script, make sure you have R installed on your system. You can download it from [CRAN](https://cran.r-project.org/).
 
+Download a dataset of ICD10 codes - I used this one: https://www.kaggle.com/datasets/mrhell/icd10cm-codeset-2023?select=ICDCodeSet.csv
+
 ## Features
 
 - Generates names, ages, races, and ethnicities for 1000 synthetic patients.
